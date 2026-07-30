@@ -174,14 +174,13 @@ python assistant.py
 
 ## 🖼️ Screenshots
 
-| Interface / Dashboard | Voice Command Prompt |
-| :---: | :---: |
-| ![Home Screen](assets/screenshots/home_screen.png) | ![Voice Command](assets/screenshots/voice_command.png) |
+| Source Code | Voice Commands |
+|--------------|----------------|
+| <img src="assets/screenshots/code_editor.png" width="500"> | <img src="assets/screenshots/terminal_output.png" width="500"> |
 
-| Weather Information | Notes & Todo Manager |
-| :---: | :---: |
-| ![Weather](assets/screenshots/weather_output.png) | ![Notes](assets/screenshots/notes_output.png) |
-
+| GitHub Repository | YouTube Automation |
+|-------------------|--------------------|
+| <img src="assets/screenshots/github_dashboard.png" width="500"> | <img src="assets/screenshots/youtube_demo.png" width="500"> |
 ---
 
 ## 🗺️ Roadmap
