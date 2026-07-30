@@ -176,13 +176,11 @@ python assistant.py
 
 | Source Code | Voice Commands |
 |--------------|----------------|
-| <img src="assets/screenshots/code_editor.png" width="500"> | <img src="assets/screenshots/terminal_output.png" width="500"> |
+| <img src="assets/screenshots/code_editor.jpg" width="500"> | <img src="assets/screenshots/terminal_output.jpg" width="500"> |
 
 | GitHub Repository | YouTube Automation |
 |-------------------|--------------------|
-| <img src="assets/screenshots/github_dashboard.png" width="500"> | <img src="assets/screenshots/youtube_demo.png" width="500"> |
----
-
+| <img src="assets/screenshots/github_dashboard.jpg" width="500"> | <img src="assets/screenshots/youtube_demo.jpg" width="500"> |
 ## 🗺️ Roadmap
 
 - [x] **Phase 1: Core Voice Engine & Desktop Operations** (Completed)
