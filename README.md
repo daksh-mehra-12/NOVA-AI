@@ -135,7 +135,7 @@ EMAIL_PASSWORD=YOUR_APP_PASSWORD
 
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/your-username/nova-ai-voice-assistant.git
+git clone https://github.com/daksh-mehra-12/Voice-Assistant.git
 cd nova-ai-voice-assistant
 
 # 2. Create and Activate Virtual Environment
@@ -215,5 +215,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## 👤 Author
 
 - **Daksh Mehra** - Open Source Maintainer & Python Developer
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: daksh-mehra-12 https://github.com/daksh-mehra-12
+- **LinkedIn**: Daksh Mehra https://www.linkedin.com/in/daksh-mehra/
