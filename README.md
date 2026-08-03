@@ -21,6 +21,7 @@
 - 🛠️ **Utility Tools**: Clipboard read/write, PNG QR code generator, cryptographically safe password generator, real-time currency converter, unit conversions, and inline math calculator.
 - 📋 **Audit & Logging System**: Centralized logging system recording system events and user command histories.
 
+NOVA AI is built with a strong focus on clean architecture, code quality, and extensibility, making it an excellent project for learning desktop automation, Python development, and voice-enabled intelligent systems. Future releases aim to introduce Large Language Model (LLM) integration, persistent memory, custom wake-word detection, GUI enhancements, and autonomous AI agent capabilities.
 ---
 
 ## 🏗️ System Architecture
@@ -209,7 +210,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-## 👤 Author
+## 👤 Owner
 
 - **Daksh Mehra** - Open Source Maintainer & Python Developer
 - **GitHub**: daksh-mehra-12 https://github.com/daksh-mehra-12
