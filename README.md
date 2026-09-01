@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 Key Features
+## 🌟Features
 
 - 🗣️ **Speech Recognition & Multi-Engine TTS**: High-accuracy Google Speech API integration with fallbacks to CLI input, powered by pyttsx3 and SAPI5.
 - ⚙️ **Native System Control**: Volume adjustments, brightness control, battery status, CPU/RAM monitoring, disk space analytics, lock workstation, sleep, hibernation, and recycle bin management.
